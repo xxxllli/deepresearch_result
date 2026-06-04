@@ -1,0 +1,1771 @@
+{
+  "nodes": [
+    {
+      "id": "paper:1",
+      "label": "Positive-Unlabeled Learning with Non-Negative Risk Estimator",
+      "type": "paper",
+      "weight": 0.7846769146149268
+    },
+    {
+      "id": "paper:2",
+      "label": "Yield Prediction of Organic Reactions in Biased Data Sets vi",
+      "type": "paper",
+      "weight": 0.7355
+    },
+    {
+      "id": "paper:3",
+      "label": "Yield Prediction of Organic Reactions in Biased Data Sets vi",
+      "type": "paper",
+      "weight": 0.7355
+    },
+    {
+      "id": "paper:4",
+      "label": "ULCYP: A Multitask Model for Predicting P450 Inducers Based ",
+      "type": "paper",
+      "weight": 0.7295
+    },
+    {
+      "id": "paper:5",
+      "label": "A Positive-Unlabeled Learning Approach With Self-Correcting ",
+      "type": "paper",
+      "weight": 0.702
+    },
+    {
+      "id": "paper:6",
+      "label": "Prediction of bacterial protein-compound interactions with o",
+      "type": "paper",
+      "weight": 0.697
+    },
+    {
+      "id": "paper:7",
+      "label": "Prediction of plant phase-separating proteins using positive",
+      "type": "paper",
+      "weight": 0.697
+    },
+    {
+      "id": "paper:8",
+      "label": "PULNS: Positive-Unlabeled Learning with Effective Negative S",
+      "type": "paper",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "paper:9",
+      "label": "Learning with Complementary Labels Revisited: The Selected-C",
+      "type": "paper",
+      "weight": 0.6906256786721479
+    },
+    {
+      "id": "paper:10",
+      "label": "MOFClassifier: A Machine Learning Approach for Validating Co",
+      "type": "paper",
+      "weight": 0.6895919471457421
+    },
+    {
+      "id": "paper:11",
+      "label": "Positive-Unlabeled Learning With Label Distribution Alignmen",
+      "type": "paper",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "paper:12",
+      "label": "PUe: Biased Positive-Unlabeled Learning Enhancement by Causa",
+      "type": "paper",
+      "weight": 0.6795919471457421
+    },
+    {
+      "id": "paper:13",
+      "label": "On Positive-Unlabeled Classification From Corrupted Data in ",
+      "type": "paper",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "paper:14",
+      "label": "Learning from Positive and Unlabeled Data with Arbitrary Pos",
+      "type": "paper",
+      "weight": 0.6747236921748856
+    },
+    {
+      "id": "paper:15",
+      "label": "Identifying Adaptive Footprints in the Presence of Demograph",
+      "type": "paper",
+      "weight": 0.6745
+    },
+    {
+      "id": "paper:16",
+      "label": "A GeoAI framework for detecting risk zones from illegal dump",
+      "type": "paper",
+      "weight": 0.6745
+    },
+    {
+      "id": "paper:17",
+      "label": "Learning from sanctioned government suppliers: a machine lea",
+      "type": "paper",
+      "weight": 0.6745
+    },
+    {
+      "id": "paper:18",
+      "label": "Improving Non-Negative Positive-Unlabeled Learning for News ",
+      "type": "paper",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "paper:19",
+      "label": "Positive-unlabeled learning for anomaly detection based on d",
+      "type": "paper",
+      "weight": 0.6695
+    },
+    {
+      "id": "paper:20",
+      "label": "Two-Stage Angular Alignment for Positive-Unlabeled Learning",
+      "type": "paper",
+      "weight": 0.6695
+    },
+    {
+      "id": "paper:21",
+      "label": "A heterogeneous graph neural network for candidate gene pred",
+      "type": "paper",
+      "weight": 0.6695
+    },
+    {
+      "id": "paper:22",
+      "label": "Multiple Instance Learning With Instance-Level Positive-Unla",
+      "type": "paper",
+      "weight": 0.669
+    },
+    {
+      "id": "paper:23",
+      "label": "Weighted Contrastive Learning With Hard Negative Mining for ",
+      "type": "paper",
+      "weight": 0.6648766052174295
+    },
+    {
+      "id": "paper:24",
+      "label": "KG2ML: integrating knowledge graphs and positive unlabeled l",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:25",
+      "label": "Localization of macromolecules in crowded cellular cryo-elec",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:26",
+      "label": "Fair positive unlabeled learning for predicting undiagnosed ",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:27",
+      "label": "Predicting Substrate Reactivity in Oxidative Homocoupling of",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:28",
+      "label": "Improving drug repositioning with negative data labeling usi",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:29",
+      "label": "Candidate correlates of protection in the HVTN505 HIV-1 vacc",
+      "type": "paper",
+      "weight": 0.6639999999999999
+    },
+    {
+      "id": "paper:30",
+      "label": "A positive-unlabeled learning approach for industrial anomal",
+      "type": "paper",
+      "weight": 0.6596401248772285
+    },
+    {
+      "id": "paper:31",
+      "label": "RR-PU: A Synergistic Two-Stage Positive and Unlabeled Learni",
+      "type": "paper",
+      "weight": 0.6596401248772285
+    },
+    {
+      "id": "paper:32",
+      "label": "DWPL-GCNMF: Structure-Aware Dynamic Weighted Pseudo-Label Le",
+      "type": "paper",
+      "weight": 0.6519999999999999
+    },
+    {
+      "id": "paper:33",
+      "label": "Positive unlabeled learning for building recommender systems",
+      "type": "paper",
+      "weight": 0.6476891321627276
+    },
+    {
+      "id": "paper:34",
+      "label": "Confidence-Based PU Learning With Instance-Dependent Label N",
+      "type": "paper",
+      "weight": 0.6454518222685137
+    },
+    {
+      "id": "paper:35",
+      "label": "Predicting Partially Observed Long-Term Outcomes with Advers",
+      "type": "paper",
+      "weight": 0.6415
+    },
+    {
+      "id": "paper:36",
+      "label": "Machine learning-based prediction reveals kinase MAP4K4 regu",
+      "type": "paper",
+      "weight": 0.6415
+    },
+    {
+      "id": "paper:37",
+      "label": "Positive unlabeled learning with tensor networks",
+      "type": "paper",
+      "weight": 0.6387373098942138
+    },
+    {
+      "id": "paper:38",
+      "label": "GKF-PUAL: A group kernel-free approach to positive-unlabeled",
+      "type": "paper",
+      "weight": 0.6365
+    },
+    {
+      "id": "paper:39",
+      "label": "Positive-unlabeled learning to infer protection status and i",
+      "type": "paper",
+      "weight": 0.6365
+    },
+    {
+      "id": "paper:40",
+      "label": "Leveraging permutation testing to assess confidence in posit",
+      "type": "paper",
+      "weight": 0.6365
+    },
+    {
+      "id": "paper:41",
+      "label": "ROPU: A robust online positive-unlabeled learning algorithm",
+      "type": "paper",
+      "weight": 0.6321401248772285
+    },
+    {
+      "id": "paper:42",
+      "label": "Code for Global Photovoltaic Solar Panel Dataset from 2019 t",
+      "type": "paper",
+      "weight": 0.6279518222685136
+    },
+    {
+      "id": "paper:43",
+      "label": "Class Prior Estimation in Active Positive and Unlabeled Lear",
+      "type": "paper",
+      "weight": 0.621473790234415
+    },
+    {
+      "id": "paper:44",
+      "label": "Dense-PU: Learning a Density-Based Boundary for Positive and",
+      "type": "paper",
+      "weight": 0.6205827645754104
+    },
+    {
+      "id": "paper:45",
+      "label": "Few-shot anomaly detection using positive unlabeled learning",
+      "type": "paper",
+      "weight": 0.6174682170001177
+    },
+    {
+      "id": "paper:46",
+      "label": "From Lazy to Prolific: Tackling Missing Labels in Open Vocab",
+      "type": "paper",
+      "weight": 0.6166309423068967
+    },
+    {
+      "id": "paper:47",
+      "label": "Predicting protein functions using positive-unlabeled rankin",
+      "type": "paper",
+      "weight": 0.614
+    },
+    {
+      "id": "paper:48",
+      "label": "Positive-unlabeled learning for open set domain adaptation",
+      "type": "paper",
+      "weight": 0.6005709752514005
+    },
+    {
+      "id": "paper:49",
+      "label": "Addressing the Cold-Start Problem in Collaborative Filtering",
+      "type": "paper",
+      "weight": 0.5937373098942139
+    },
+    {
+      "id": "paper:50",
+      "label": "PONYTA: prioritization of phenotype-related genes from mouse",
+      "type": "paper",
+      "weight": 0.5760000000000001
+    },
+    {
+      "id": "paper:51",
+      "label": "Identification of Protein-Protein Interaction (PPI) Sites on",
+      "type": "paper",
+      "weight": 0.5740000000000001
+    },
+    {
+      "id": "paper:52",
+      "label": "Learning from Positive and Unlabeled Multi-Instance Bags in ",
+      "type": "paper",
+      "weight": 0.5548072890740546
+    },
+    {
+      "id": "paper:53",
+      "label": "Focused PU learning from imbalanced data",
+      "type": "paper",
+      "weight": 0.5535
+    },
+    {
+      "id": "paper:54",
+      "label": "Screening and Predicting Multi-Omics T-ALL Core Genes Based ",
+      "type": "paper",
+      "weight": 0.5465
+    },
+    {
+      "id": "paper:55",
+      "label": "PUMAD: PU Metric learning for anomaly detection",
+      "type": "paper",
+      "weight": 0.5409459449197461
+    },
+    {
+      "id": "paper:56",
+      "label": "Multiobjective Optimization of Metal-Organic Framework Struc",
+      "type": "paper",
+      "weight": 0.5296401248772284
+    },
+    {
+      "id": "paper:57",
+      "label": "A two-step anomaly detection based method for PU classificat",
+      "type": "paper",
+      "weight": 0.5262373098942139
+    },
+    {
+      "id": "paper:58",
+      "label": "Understanding Contrastive Representation Learning from Posit",
+      "type": "paper",
+      "weight": 0.49850000000000005
+    },
+    {
+      "id": "paper:59",
+      "label": "Positive Unlabeled Learning Selected Not At Random (PULSNAR)",
+      "type": "paper",
+      "weight": 0.4935
+    },
+    {
+      "id": "paper:60",
+      "label": "Risk bounds for PU learning under Selected At Random assumpt",
+      "type": "paper",
+      "weight": 0.4851883026087148
+    },
+    {
+      "id": "author:Margaret E Ackerman",
+      "label": "Margaret E Ackerman",
+      "type": "author",
+      "weight": 3.8739999999999997
+    },
+    {
+      "id": "author:Frank Glorius",
+      "label": "Frank Glorius",
+      "type": "author",
+      "weight": 2.942
+    },
+    {
+      "id": "author:Shiwei Xu",
+      "label": "Shiwei Xu",
+      "type": "author",
+      "weight": 2.9055
+    },
+    {
+      "id": "author:Lorenzo Perini",
+      "label": "Lorenzo Perini",
+      "type": "author",
+      "weight": 2.352562158616939
+    },
+    {
+      "id": "author:Jesse Davis",
+      "label": "Jesse Davis",
+      "type": "author",
+      "weight": 2.352562158616939
+    },
+    {
+      "id": "author:Florian Boser",
+      "label": "Florian Boser",
+      "type": "author",
+      "weight": 2.2065
+    },
+    {
+      "id": "author:Weihua Li",
+      "label": "Weihua Li",
+      "type": "author",
+      "weight": 1.459
+    },
+    {
+      "id": "author:Mingon Kang",
+      "label": "Mingon Kang",
+      "type": "author",
+      "weight": 1.394
+    },
+    {
+      "id": "author:Xiangfeng Wang",
+      "label": "Xiangfeng Wang",
+      "type": "author",
+      "weight": 1.394
+    },
+    {
+      "id": "author:Yongchul G. Chung",
+      "label": "Yongchul G. Chung",
+      "type": "author",
+      "weight": 1.3791838942914842
+    },
+    {
+      "id": "author:Michael DeGiorgio",
+      "label": "Michael DeGiorgio",
+      "type": "author",
+      "weight": 1.349
+    },
+    {
+      "id": "author:Md Manjur Morshed",
+      "label": "Md Manjur Morshed",
+      "type": "author",
+      "weight": 1.349
+    },
+    {
+      "id": "author:Mihály Fazekas",
+      "label": "Mihály Fazekas",
+      "type": "author",
+      "weight": 1.349
+    },
+    {
+      "id": "author:Zhanlin Ji",
+      "label": "Zhanlin Ji",
+      "type": "author",
+      "weight": 1.339753210434859
+    },
+    {
+      "id": "author:Иван Ганчев",
+      "label": "Иван Ганчев",
+      "type": "author",
+      "weight": 1.339753210434859
+    },
+    {
+      "id": "author:Jie Lu",
+      "label": "Jie Lu",
+      "type": "author",
+      "weight": 1.339
+    },
+    {
+      "id": "author:Jeremy J Yang",
+      "label": "Jeremy J Yang",
+      "type": "author",
+      "weight": 1.3279999999999998
+    },
+    {
+      "id": "author:Min Xu",
+      "label": "Min Xu",
+      "type": "author",
+      "weight": 1.3279999999999998
+    },
+    {
+      "id": "author:Timothy S Chang",
+      "label": "Timothy S Chang",
+      "type": "author",
+      "weight": 1.3279999999999998
+    },
+    {
+      "id": "author:Hiroaki Gotoh",
+      "label": "Hiroaki Gotoh",
+      "type": "author",
+      "weight": 1.3279999999999998
+    },
+    {
+      "id": "author:Arnaud Droit",
+      "label": "Arnaud Droit",
+      "type": "author",
+      "weight": 1.3279999999999998
+    },
+    {
+      "id": "author:Chao Liu",
+      "label": "Chao Liu",
+      "type": "author",
+      "weight": 1.319280249754457
+    },
+    {
+      "id": "author:Dongxiang Jiang",
+      "label": "Dongxiang Jiang",
+      "type": "author",
+      "weight": 1.319280249754457
+    },
+    {
+      "id": "author:Kangkang Luo",
+      "label": "Kangkang Luo",
+      "type": "author",
+      "weight": 1.3039999999999998
+    },
+    {
+      "id": "author:Matthew M Engelhard",
+      "label": "Matthew M Engelhard",
+      "type": "author",
+      "weight": 1.283
+    },
+    {
+      "id": "author:Lu Chen",
+      "label": "Lu Chen",
+      "type": "author",
+      "weight": 1.283
+    },
+    {
+      "id": "author:Rui Zhu",
+      "label": "Rui Zhu",
+      "type": "author",
+      "weight": 1.273
+    },
+    {
+      "id": "author:Jing‐Hao Xue",
+      "label": "Jing‐Hao Xue",
+      "type": "author",
+      "weight": 1.273
+    },
+    {
+      "id": "author:Ling Jian",
+      "label": "Ling Jian",
+      "type": "author",
+      "weight": 1.264280249754457
+    },
+    {
+      "id": "author:Xin Cao",
+      "label": "Xin Cao",
+      "type": "author",
+      "weight": 1.2559036445370273
+    },
+    {
+      "id": "author:Sang Hyun Park",
+      "label": "Sang Hyun Park",
+      "type": "author",
+      "weight": 1.2349364340002353
+    },
+    {
+      "id": "author:Ranran Haoran Zhang",
+      "label": "Ranran Haoran Zhang",
+      "type": "author",
+      "weight": 1.2332618846137935
+    },
+    {
+      "id": "author:Rui Zhang",
+      "label": "Rui Zhang",
+      "type": "author",
+      "weight": 1.2332618846137935
+    },
+    {
+      "id": "author:Robert Hoehndorf",
+      "label": "Robert Hoehndorf",
+      "type": "author",
+      "weight": 1.228
+    },
+    {
+      "id": "author:Vincent Vercruyssen",
+      "label": "Vincent Vercruyssen",
+      "type": "author",
+      "weight": 1.1762810793084695
+    },
+    {
+      "id": "author:Debashree Bandyopadhyay",
+      "label": "Debashree Bandyopadhyay",
+      "type": "author",
+      "weight": 1.1480000000000001
+    },
+    {
+      "id": "author:Changda Gong",
+      "label": "Changda Gong",
+      "type": "author",
+      "weight": 1.0942500000000002
+    },
+    {
+      "id": "author:Carlos Ortega Vázquez",
+      "label": "Carlos Ortega Vázquez",
+      "type": "author",
+      "weight": 1.0524746197884278
+    },
+    {
+      "id": "author:Jochen De Weerdt",
+      "label": "Jochen De Weerdt",
+      "type": "author",
+      "weight": 1.0524746197884278
+    },
+    {
+      "id": "author:Ki-Hwa Kim",
+      "label": "Ki-Hwa Kim",
+      "type": "author",
+      "weight": 1.0454999999999999
+    },
+    {
+      "id": "author:Ran Fu",
+      "label": "Ran Fu",
+      "type": "author",
+      "weight": 1.0454999999999999
+    },
+    {
+      "id": "author:Guobin Zhao",
+      "label": "Guobin Zhao",
+      "type": "author",
+      "weight": 1.034387920718613
+    },
+    {
+      "id": "author:Sandipan Paul Arnab",
+      "label": "Sandipan Paul Arnab",
+      "type": "author",
+      "weight": 1.01175
+    },
+    {
+      "id": "author:Swadhin Das",
+      "label": "Swadhin Das",
+      "type": "author",
+      "weight": 1.01175
+    },
+    {
+      "id": "author:Martí Medina-Hernández",
+      "label": "Martí Medina-Hernández",
+      "type": "author",
+      "weight": 1.01175
+    },
+    {
+      "id": "author:Zelia Soo",
+      "label": "Zelia Soo",
+      "type": "author",
+      "weight": 1.0042499999999999
+    },
+    {
+      "id": "author:Inderjit S Dhillon",
+      "label": "Inderjit S Dhillon",
+      "type": "author",
+      "weight": 0.9970000000000001
+    },
+    {
+      "id": "author:Praveen Kumar",
+      "label": "Praveen Kumar",
+      "type": "author",
+      "weight": 0.9959999999999999
+    },
+    {
+      "id": "author:Mostofa Rafid Uddin",
+      "label": "Mostofa Rafid Uddin",
+      "type": "author",
+      "weight": 0.9959999999999999
+    },
+    {
+      "id": "author:Thai Tran",
+      "label": "Thai Tran",
+      "type": "author",
+      "weight": 0.9959999999999999
+    },
+    {
+      "id": "author:Takafumi Nishii",
+      "label": "Takafumi Nishii",
+      "type": "author",
+      "weight": 0.9959999999999999
+    },
+    {
+      "id": "author:Milan Picard",
+      "label": "Milan Picard",
+      "type": "author",
+      "weight": 0.9959999999999999
+    },
+    {
+      "id": "author:Keyu Song",
+      "label": "Keyu Song",
+      "type": "author",
+      "weight": 0.9894601873158426
+    },
+    {
+      "id": "author:Hailin Chen",
+      "label": "Hailin Chen",
+      "type": "author",
+      "weight": 0.9779999999999999
+    },
+    {
+      "id": "author:Mengying Yan",
+      "label": "Mengying Yan",
+      "type": "author",
+      "weight": 0.9622499999999999
+    },
+    {
+      "id": "author:Guihua Wang",
+      "label": "Guihua Wang",
+      "type": "author",
+      "weight": 0.9622499999999999
+    },
+    {
+      "id": "author:Xiaoke Wang",
+      "label": "Xiaoke Wang",
+      "type": "author",
+      "weight": 0.95475
+    },
+    {
+      "id": "author:Xijun Liang",
+      "label": "Xijun Liang",
+      "type": "author",
+      "weight": 0.9482101873158427
+    },
+    {
+      "id": "author:Anqi Li",
+      "label": "Anqi Li",
+      "type": "author",
+      "weight": 0.9419277334027705
+    },
+    {
+      "id": "author:Sion An",
+      "label": "Sion An",
+      "type": "author",
+      "weight": 0.9262023255001766
+    },
+    {
+      "id": "inst:KU Leuven",
+      "label": "KU Leuven",
+      "type": "institution",
+      "weight": 2.2962556990968976
+    },
+    {
+      "id": "inst:RIKEN Center for Advanced Intelligence Project",
+      "label": "RIKEN Center for Advanced Intelligence Project",
+      "type": "institution",
+      "weight": 1.4753025932870747
+    },
+    {
+      "id": "inst:University of Chinese Academy of Sciences",
+      "label": "University of Chinese Academy of Sciences",
+      "type": "institution",
+      "weight": 1.3717496670659926
+    },
+    {
+      "id": "inst:Chinese Academy of Sciences",
+      "label": "Chinese Academy of Sciences",
+      "type": "institution",
+      "weight": 1.3494877824521991
+    },
+    {
+      "id": "inst:Nanyang Technological University",
+      "label": "Nanyang Technological University",
+      "type": "institution",
+      "weight": 1.3428284274859432
+    },
+    {
+      "id": "inst:Tsinghua University",
+      "label": "Tsinghua University",
+      "type": "institution",
+      "weight": 1.329516730094658
+    },
+    {
+      "id": "inst:Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+      "label": "Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+      "type": "institution",
+      "weight": 1.2900827645754105
+    },
+    {
+      "id": "inst:Democritus University of Thrace",
+      "label": "Democritus University of Thrace",
+      "type": "institution",
+      "weight": 1.2900827645754105
+    },
+    {
+      "id": "inst:Department of Production and Management Engineering, Democritus University of Thrace, Xanthi, Greece",
+      "label": "Department of Production and Management Engineering, Democritus University of Thrace, Xanthi, Greece",
+      "type": "institution",
+      "weight": 1.2900827645754105
+    },
+    {
+      "id": "inst:Organisch-Chemisches-Institut, Universität Münster, Corrensstraße 36, 48149 Münster, Germany",
+      "label": "Organisch-Chemisches-Institut, Universität Münster, Corrensstraße 36, 48149 Münster, Germany",
+      "type": "institution",
+      "weight": 0.7355
+    },
+    {
+      "id": "inst:University of Münster",
+      "label": "University of Münster",
+      "type": "institution",
+      "weight": 0.7355
+    },
+    {
+      "id": "inst:East China University of Science and Technology",
+      "label": "East China University of Science and Technology",
+      "type": "institution",
+      "weight": 0.7295
+    },
+    {
+      "id": "inst:Shanghai Frontiers Science Center of Optogenetic Techniques for Cell Metabolism, Shanghai Key Laboratory of New Drug Design, School of Pharmacy",
+      "label": "Shanghai Frontiers Science Center of Optogenetic Techniques for Cell Metabolism, Shanghai Key Laboratory of New Drug Design, School of Pharmacy",
+      "type": "institution",
+      "weight": 0.7295
+    },
+    {
+      "id": "inst:Department of Artificial Intelligence, Indian Institute of Technology, Kharagpur, India",
+      "label": "Department of Artificial Intelligence, Indian Institute of Technology, Kharagpur, India",
+      "type": "institution",
+      "weight": 0.702
+    },
+    {
+      "id": "inst:Indian Institute of Technology Kharagpur",
+      "label": "Indian Institute of Technology Kharagpur",
+      "type": "institution",
+      "weight": 0.702
+    },
+    {
+      "id": "inst:China Agricultural University",
+      "label": "China Agricultural University",
+      "type": "institution",
+      "weight": 0.697
+    },
+    {
+      "id": "inst:National Academy of Agricultural Sciences",
+      "label": "National Academy of Agricultural Sciences",
+      "type": "institution",
+      "weight": 0.697
+    },
+    {
+      "id": "inst:Sanya University",
+      "label": "Sanya University",
+      "type": "institution",
+      "weight": 0.697
+    },
+    {
+      "id": "inst:Xiamen University",
+      "label": "Xiamen University",
+      "type": "institution",
+      "weight": 0.697
+    },
+    {
+      "id": "inst:Institute of Software",
+      "label": "Institute of Software",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:L3S Research Center",
+      "label": "L3S Research Center",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:Leibniz University Hannover",
+      "label": "Leibniz University Hannover",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:Microsoft (United States)",
+      "label": "Microsoft (United States)",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:Microsoft Research Asia (China)",
+      "label": "Microsoft Research Asia (China)",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:University of Newcastle Australia",
+      "label": "University of Newcastle Australia",
+      "type": "institution",
+      "weight": 0.6917618846137935
+    },
+    {
+      "id": "inst:Pusan National University",
+      "label": "Pusan National University",
+      "type": "institution",
+      "weight": 0.6895919471457421
+    },
+    {
+      "id": "inst:Institute of Computing Technology",
+      "label": "Institute of Computing Technology",
+      "type": "institution",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "inst:Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China",
+      "label": "Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China",
+      "type": "institution",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "inst:School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China",
+      "label": "School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China",
+      "type": "institution",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "inst:School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University, Shenzhen, China",
+      "label": "School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University, Shenzhen, China",
+      "type": "institution",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "inst:Sun Yat-sen University",
+      "label": "Sun Yat-sen University",
+      "type": "institution",
+      "weight": 0.6799877824521992
+    },
+    {
+      "id": "inst:College of Computing and Data Science, Nanyang Technological University, Singapore",
+      "label": "College of Computing and Data Science, Nanyang Technological University, Singapore",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:Huawei Noah's Ark Lab, Beijing, China",
+      "label": "Huawei Noah's Ark Lab, Beijing, China",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:Huawei Technologies (China)",
+      "label": "Huawei Technologies (China)",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:Peking University",
+      "label": "Peking University",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:School of Computer Science, Faculty of Engineering, University of Sydney, Camperdown, NSW, Australia",
+      "label": "School of Computer Science, Faculty of Engineering, University of Sydney, Camperdown, NSW, Australia",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:School of Computer Science, Institute of Artificial Intelligence, National Engineering Research Center for Multimedia Software and Hubei Key Laboratory of Multimedia and Network Communication Engineering, Wuhan University, Wuhan, China",
+      "label": "School of Computer Science, Institute of Artificial Intelligence, National Engineering Research Center for Multimedia Software and Hubei Key Laboratory of Multimedia and Network Communication Engineering, Wuhan University, Wuhan, China",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:The University of Sydney",
+      "label": "The University of Sydney",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:Wuhan University",
+      "label": "Wuhan University",
+      "type": "institution",
+      "weight": 0.6779518222685137
+    },
+    {
+      "id": "inst:University of Oregon",
+      "label": "University of Oregon",
+      "type": "institution",
+      "weight": 0.6747236921748856
+    },
+    {
+      "id": "inst:Central European University",
+      "label": "Central European University",
+      "type": "institution",
+      "weight": 0.6745
+    },
+    {
+      "id": "inst:Beijing National Research Center for Information Science and Technology, Institute for Precision Medicine, Tsinghua University, Beijing, China",
+      "label": "Beijing National Research Center for Information Science and Technology, Institute for Precision Medicine, Tsinghua University, Beijing, China",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:College of Artificial Intelligence, North China University of Science and Technology, Tangshan, China",
+      "label": "College of Artificial Intelligence, North China University of Science and Technology, Tangshan, China",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:Department of Computing, Xi&#x2019;an Jiaotong--Liverpool University, Suzhou, China",
+      "label": "Department of Computing, Xi&#x2019;an Jiaotong--Liverpool University, Suzhou, China",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:North China University of Science and Technology",
+      "label": "North China University of Science and Technology",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:Plovdiv University",
+      "label": "Plovdiv University",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland",
+      "label": "Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland.",
+      "label": "Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland.",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:University of Limerick",
+      "label": "University of Limerick",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    },
+    {
+      "id": "inst:Xi’an Jiaotong-Liverpool University",
+      "label": "Xi’an Jiaotong-Liverpool University",
+      "type": "institution",
+      "weight": 0.6698766052174295
+    }
+  ],
+  "edges": [
+    {
+      "source": "paper:1",
+      "target": "inst:RIKEN Center for Advanced Intelligence Project",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Florian Boser",
+      "target": "paper:2",
+      "type": "authored"
+    },
+    {
+      "source": "author:Frank Glorius",
+      "target": "paper:2",
+      "type": "authored"
+    },
+    {
+      "source": "author:Florian Boser",
+      "target": "paper:3",
+      "type": "authored"
+    },
+    {
+      "source": "author:Florian Boser",
+      "target": "inst:University of Münster",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Frank Glorius",
+      "target": "paper:3",
+      "type": "authored"
+    },
+    {
+      "source": "author:Frank Glorius",
+      "target": "inst:University of Münster",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:3",
+      "target": "inst:Organisch-Chemisches-Institut, Universität Münster, Corrensstraße 36, 48149 Münster, Germany",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:3",
+      "target": "inst:University of Münster",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Changda Gong",
+      "target": "paper:4",
+      "type": "authored"
+    },
+    {
+      "source": "author:Weihua Li",
+      "target": "paper:4",
+      "type": "authored"
+    },
+    {
+      "source": "paper:4",
+      "target": "inst:East China University of Science and Technology",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:4",
+      "target": "inst:Shanghai Frontiers Science Center of Optogenetic Techniques for Cell Metabolism, Shanghai Key Laboratory of New Drug Design, School of Pharmacy",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:5",
+      "target": "inst:Department of Artificial Intelligence, Indian Institute of Technology, Kharagpur, India",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:5",
+      "target": "inst:Indian Institute of Technology Kharagpur",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Ki-Hwa Kim",
+      "target": "paper:6",
+      "type": "authored"
+    },
+    {
+      "source": "author:Mingon Kang",
+      "target": "paper:6",
+      "type": "authored"
+    },
+    {
+      "source": "author:Ran Fu",
+      "target": "paper:7",
+      "type": "authored"
+    },
+    {
+      "source": "author:Xiangfeng Wang",
+      "target": "paper:7",
+      "type": "authored"
+    },
+    {
+      "source": "paper:7",
+      "target": "inst:China Agricultural University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:7",
+      "target": "inst:National Academy of Agricultural Sciences",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:7",
+      "target": "inst:Sanya University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:7",
+      "target": "inst:Xiamen University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:Institute of Software",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:L3S Research Center",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:Leibniz University Hannover",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:Microsoft (United States)",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:Microsoft Research Asia (China)",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:University of Chinese Academy of Sciences",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:8",
+      "target": "inst:University of Newcastle Australia",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:9",
+      "target": "inst:RIKEN Center for Advanced Intelligence Project",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Guobin Zhao",
+      "target": "paper:10",
+      "type": "authored"
+    },
+    {
+      "source": "author:Guobin Zhao",
+      "target": "inst:Pusan National University",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Yongchul G. Chung",
+      "target": "paper:10",
+      "type": "authored"
+    },
+    {
+      "source": "author:Yongchul G. Chung",
+      "target": "inst:Pusan National University",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:10",
+      "target": "inst:Pusan National University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:Chinese Academy of Sciences",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:Institute of Computing Technology",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:School of Computer Science and Technology, University of Chinese Academy of Sciences, Beijing, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University, Shenzhen, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:Sun Yat-sen University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:11",
+      "target": "inst:University of Chinese Academy of Sciences",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:College of Computing and Data Science, Nanyang Technological University, Singapore",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:Huawei Noah's Ark Lab, Beijing, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:Huawei Technologies (China)",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:Nanyang Technological University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:Peking University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:School of Computer Science, Faculty of Engineering, University of Sydney, Camperdown, NSW, Australia",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:School of Computer Science, Institute of Artificial Intelligence, National Engineering Research Center for Multimedia Software and Hubei Key Laboratory of Multimedia and Network Communication Engineering, Wuhan University, Wuhan, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:The University of Sydney",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:13",
+      "target": "inst:Wuhan University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:14",
+      "target": "inst:University of Oregon",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Sandipan Paul Arnab",
+      "target": "paper:15",
+      "type": "authored"
+    },
+    {
+      "source": "author:Michael DeGiorgio",
+      "target": "paper:15",
+      "type": "authored"
+    },
+    {
+      "source": "author:Swadhin Das",
+      "target": "paper:16",
+      "type": "authored"
+    },
+    {
+      "source": "author:Md Manjur Morshed",
+      "target": "paper:16",
+      "type": "authored"
+    },
+    {
+      "source": "author:Martí Medina-Hernández",
+      "target": "paper:17",
+      "type": "authored"
+    },
+    {
+      "source": "author:Mihály Fazekas",
+      "target": "paper:17",
+      "type": "authored"
+    },
+    {
+      "source": "paper:17",
+      "target": "inst:Central European University",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Zhanlin Ji",
+      "target": "paper:18",
+      "type": "authored"
+    },
+    {
+      "source": "author:Zhanlin Ji",
+      "target": "inst:North China University of Science and Technology",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Zhanlin Ji",
+      "target": "inst:University of Limerick",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Иван Ганчев",
+      "target": "paper:18",
+      "type": "authored"
+    },
+    {
+      "source": "author:Иван Ганчев",
+      "target": "inst:Plovdiv University",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Иван Ганчев",
+      "target": "inst:University of Limerick",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Beijing National Research Center for Information Science and Technology, Institute for Precision Medicine, Tsinghua University, Beijing, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:College of Artificial Intelligence, North China University of Science and Technology, Tangshan, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Department of Computing, Xi&#x2019;an Jiaotong--Liverpool University, Suzhou, China",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:North China University of Science and Technology",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Plovdiv University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Telecommunications Research Centre (TRC), University of Limerick, Limerick, Ireland.",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Tsinghua University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:University of Limerick",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:18",
+      "target": "inst:Xi’an Jiaotong-Liverpool University",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:19",
+      "target": "inst:Chinese Academy of Sciences",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:20",
+      "target": "inst:Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:20",
+      "target": "inst:Democritus University of Thrace",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:20",
+      "target": "inst:Department of Production and Management Engineering, Democritus University of Thrace, Xanthi, Greece",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Zelia Soo",
+      "target": "paper:21",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jie Lu",
+      "target": "paper:21",
+      "type": "authored"
+    },
+    {
+      "source": "paper:23",
+      "target": "inst:Nanyang Technological University",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Praveen Kumar",
+      "target": "paper:24",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jeremy J Yang",
+      "target": "paper:24",
+      "type": "authored"
+    },
+    {
+      "source": "author:Mostofa Rafid Uddin",
+      "target": "paper:25",
+      "type": "authored"
+    },
+    {
+      "source": "author:Min Xu",
+      "target": "paper:25",
+      "type": "authored"
+    },
+    {
+      "source": "author:Thai Tran",
+      "target": "paper:26",
+      "type": "authored"
+    },
+    {
+      "source": "author:Timothy S Chang",
+      "target": "paper:26",
+      "type": "authored"
+    },
+    {
+      "source": "author:Takafumi Nishii",
+      "target": "paper:27",
+      "type": "authored"
+    },
+    {
+      "source": "author:Hiroaki Gotoh",
+      "target": "paper:27",
+      "type": "authored"
+    },
+    {
+      "source": "author:Milan Picard",
+      "target": "paper:28",
+      "type": "authored"
+    },
+    {
+      "source": "author:Arnaud Droit",
+      "target": "paper:28",
+      "type": "authored"
+    },
+    {
+      "source": "author:Shiwei Xu",
+      "target": "paper:29",
+      "type": "authored"
+    },
+    {
+      "source": "author:Margaret E Ackerman",
+      "target": "paper:29",
+      "type": "authored"
+    },
+    {
+      "source": "author:Keyu Song",
+      "target": "paper:30",
+      "type": "authored"
+    },
+    {
+      "source": "author:Keyu Song",
+      "target": "inst:Tsinghua University",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Chao Liu",
+      "target": "paper:30",
+      "type": "authored"
+    },
+    {
+      "source": "author:Chao Liu",
+      "target": "inst:Tsinghua University",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Dongxiang Jiang",
+      "target": "paper:30",
+      "type": "authored"
+    },
+    {
+      "source": "author:Dongxiang Jiang",
+      "target": "inst:Tsinghua University",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:30",
+      "target": "inst:Tsinghua University",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Hailin Chen",
+      "target": "paper:32",
+      "type": "authored"
+    },
+    {
+      "source": "author:Kangkang Luo",
+      "target": "paper:32",
+      "type": "authored"
+    },
+    {
+      "source": "author:Mengying Yan",
+      "target": "paper:35",
+      "type": "authored"
+    },
+    {
+      "source": "author:Matthew M Engelhard",
+      "target": "paper:35",
+      "type": "authored"
+    },
+    {
+      "source": "author:Guihua Wang",
+      "target": "paper:36",
+      "type": "authored"
+    },
+    {
+      "source": "author:Lu Chen",
+      "target": "paper:36",
+      "type": "authored"
+    },
+    {
+      "source": "author:Xiaoke Wang",
+      "target": "paper:38",
+      "type": "authored"
+    },
+    {
+      "source": "author:Rui Zhu",
+      "target": "paper:38",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jing‐Hao Xue",
+      "target": "paper:38",
+      "type": "authored"
+    },
+    {
+      "source": "author:Shiwei Xu",
+      "target": "paper:39",
+      "type": "authored"
+    },
+    {
+      "source": "author:Margaret E Ackerman",
+      "target": "paper:39",
+      "type": "authored"
+    },
+    {
+      "source": "author:Shiwei Xu",
+      "target": "paper:40",
+      "type": "authored"
+    },
+    {
+      "source": "author:Margaret E Ackerman",
+      "target": "paper:40",
+      "type": "authored"
+    },
+    {
+      "source": "author:Xijun Liang",
+      "target": "paper:41",
+      "type": "authored"
+    },
+    {
+      "source": "author:Ling Jian",
+      "target": "paper:41",
+      "type": "authored"
+    },
+    {
+      "source": "author:Anqi Li",
+      "target": "paper:42",
+      "type": "authored"
+    },
+    {
+      "source": "author:Xin Cao",
+      "target": "paper:42",
+      "type": "authored"
+    },
+    {
+      "source": "author:Lorenzo Perini",
+      "target": "paper:43",
+      "type": "authored"
+    },
+    {
+      "source": "author:Lorenzo Perini",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Vincent Vercruyssen",
+      "target": "paper:43",
+      "type": "authored"
+    },
+    {
+      "source": "author:Vincent Vercruyssen",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Jesse Davis",
+      "target": "paper:43",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jesse Davis",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:43",
+      "target": "inst:KU Leuven",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:44",
+      "target": "inst:Athena Research and Innovation Center In Information Communication & Knowledge Technologies",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:44",
+      "target": "inst:Democritus University of Thrace",
+      "type": "mentions"
+    },
+    {
+      "source": "paper:44",
+      "target": "inst:Department of Production and Management Engineering, Democritus University of Thrace, Xanthi, Greece",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Sion An",
+      "target": "paper:45",
+      "type": "authored"
+    },
+    {
+      "source": "author:Sang Hyun Park",
+      "target": "paper:45",
+      "type": "authored"
+    },
+    {
+      "source": "author:Ranran Haoran Zhang",
+      "target": "paper:46",
+      "type": "authored"
+    },
+    {
+      "source": "author:Rui Zhang",
+      "target": "paper:46",
+      "type": "authored"
+    },
+    {
+      "source": "author:Robert Hoehndorf",
+      "target": "paper:47",
+      "type": "authored"
+    },
+    {
+      "source": "paper:49",
+      "target": "inst:KU Leuven",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Debashree Bandyopadhyay",
+      "target": "paper:51",
+      "type": "authored"
+    },
+    {
+      "source": "author:Lorenzo Perini",
+      "target": "paper:52",
+      "type": "authored"
+    },
+    {
+      "source": "author:Lorenzo Perini",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Vincent Vercruyssen",
+      "target": "paper:52",
+      "type": "authored"
+    },
+    {
+      "source": "author:Vincent Vercruyssen",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Jesse Davis",
+      "target": "paper:52",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jesse Davis",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:52",
+      "target": "inst:KU Leuven",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Carlos Ortega Vázquez",
+      "target": "paper:57",
+      "type": "authored"
+    },
+    {
+      "source": "author:Carlos Ortega Vázquez",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "author:Jochen De Weerdt",
+      "target": "paper:57",
+      "type": "authored"
+    },
+    {
+      "source": "author:Jochen De Weerdt",
+      "target": "inst:KU Leuven",
+      "type": "affiliated"
+    },
+    {
+      "source": "paper:57",
+      "target": "inst:KU Leuven",
+      "type": "mentions"
+    },
+    {
+      "source": "author:Inderjit S Dhillon",
+      "target": "paper:58",
+      "type": "authored"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{"id": "10.32657_10356_75883", "relevance": 0.85, "relevant": true, "reason": "标题直接结合了positive and unlabeled learning与anomaly detection，是PU学习的核心应用方向。"}
+{"id": "10.2139_ssrn.5274959", "relevance": 0.9, "relevant": true, "reason": "标题明确研究Positive-Unlabeled Classification，并引入Deep Metric Learning，是PU学习的核心方法改进。"}
+{"id": "10.1109_icdm50108.2020.00160", "relevance": 0.95, "relevant": true, "reason": "摘要系统研究多类PU学习，提出无偏风险估计器并解决过拟合问题，是PU学习的核心理论贡献。"}
+{"id": "paper_004_9a3d8ffe", "relevance": 0.9, "relevant": true, "reason": "标题和摘要聚焦PU learning在不平衡数据上的新方法，提出聚焦经验风险估计器，是PU学习的重要子方向。"}
+{"id": "paper_005_11c02da3", "relevance": 0.85, "relevant": true, "reason": "摘要将PU分类扩展到半监督学习，利用未标注数据直接提取标签信息，是PU学习的延伸与理论分析。"}
+{"id": "10.1007_s10462-023-10393-8", "relevance": 0.05, "relevant": false, "reason": "标题和摘要均为空，且主题为半监督文本分类综述，未提及positive unlabeled learning，判定无关。"}
+{"id": "paper_007_33290915", "relevance": 0.9, "relevant": true, "reason": "摘要提出变分原理用于PU学习，直接解决正类和无标注数据分类问题，是PU学习的核心方法创新。"}
+{"id": "10.1109_tnnls.2025.3549510", "relevance": 0.95, "relevant": true, "reason": "摘要研究PU学习中的实例依赖标签噪声问题，提出置信度方法，是PU学习的前沿理论突破。"}
+{"id": "10.1117_12.2675650", "relevance": 0.85, "relevant": true, "reason": "标题和摘要提出自适应非对称损失函数解决PU问题，并应用于图像分类，是PU学习的实用方法。"}
+{"id": "10.1002_int.22437", "relevance": 0.8, "relevant": true, "reason": "标题和摘要将PU学习引入视频异常检测，提出PU-AD框架，是PU学习的重要应用方向。"}
+{"id": "10.1109_mlsp58920.2024.10734794", "relevance": 0.85, "relevant": true, "reason": "标题和摘要开发量子PU学习方法用于光伏故障检测，是PU学习的新兴交叉方向。"}
+{"id": "paper_012_e5426c11", "relevance": 0.9, "relevant": true, "reason": "摘要研究PU学习在Selected At Random假设下的风险界，是PU学习的理论分析核心。"}
+{"id": "10.31234_osf.io_4u2dh", "relevance": 0.05, "relevant": false, "reason": "标题和摘要为空，且主题为文本分类方法比较，未提及positive unlabeled learning，判定无关。"}
+{"id": "paper_014_a63d6d21", "relevance": 0.95, "relevant": true, "reason": "摘要提出非负风险估计器解决PU学习过拟合问题，是PU学习领域的重要方法论。"}
+{"id": "paper_015_75a7d283", "relevance": 0.85, "relevant": true, "reason": "摘要提出PUbN分类框架，将偏置负数据融入PU学习，是PU学习的扩展研究。"}
+{"id": "paper_016_3c093a20", "relevance": 0.8, "relevant": true, "reason": "摘要将PU学习用于医学图像分割的伪标签选择，是PU学习的具体应用。"}
+{"id": "10.24963_ijcai.2020_403", "relevance": 0.9, "relevant": true, "reason": "摘要研究主动PU学习中的类先验估计，是PU学习与主动学习的交叉理论。"}
+{"id": "paper_018_2a955f0f", "relevance": 0.85, "relevant": true, "reason": "摘要研究主动PU学习的标签复杂度，是PU学习与主动学习的理论分析。"}
+{"id": "paper_019_1cdce96d", "relevance": 0.9, "relevant": true, "reason": "摘要提出成本敏感的多类PU学习方法，确保无偏风险估计，是PU学习的核心理论贡献。"}
+{"id": "10.48550_arxiv.2602.02081", "relevance": 0.85, "relevant": true, "reason": "摘要研究主动PU学习的标签复杂度，与paper_018内容相同，是PU学习的理论分析。"}
+{"id": "10.48550_arxiv.2510.25226", "relevance": 0.95, "relevant": true, "reason": "直接提出多类PU学习的无偏风险估计方法，核心解决PU学习中的关键问题。"}
+{"id": "10.1038_nmeth.2340", "relevance": 0.9, "relevant": true, "reason": "将蛋白质功能预测建模为PU排序问题，应用PU学习的核心思想。"}
+{"id": "paper_023_d785b8bb", "relevance": 0.85, "relevant": true, "reason": "构建PU学习基准评估框架，系统比较PU算法，属于PU学习的重要方法论工作。"}
+{"id": "10.48550_arxiv.2509.24228", "relevance": 0.85, "relevant": true, "reason": "与paper_023_d785b8bb内容相同，同样是PU学习基准评估。"}
+{"id": "paper_025_ce0545f7", "relevance": 0.9, "relevant": true, "reason": "研究PU学习中正样本非代表性这一核心挑战，提出新方法。"}
+{"id": "paper_026_1f7c01df", "relevance": 0.85, "relevant": true, "reason": "针对PU数据估计类先验和后验，提出鲁棒分类算法。"}
+{"id": "paper_027_8986d74d", "relevance": 0.85, "relevant": true, "reason": "将PU分类推广到类先验偏移和非对称误差场景，扩展PU学习理论。"}
+{"id": "paper_028_c89b932d", "relevance": 0.85, "relevant": true, "reason": "提出针对开放场景中新增类别的PU学习无偏风险估计器。"}
+{"id": "10.48550_arxiv.2207.13274", "relevance": 0.85, "relevant": true, "reason": "与paper_028_c89b932d内容相同，处理PU学习中的新增类别问题。"}
+{"id": "10.1109_ddcls49620.2020.9275048", "relevance": 0.7, "relevant": true, "reason": "将PU学习应用于入侵检测，属于PU学习的重要应用方向。"}
+{"id": "paper_031_3554e9de", "relevance": 0.6, "relevant": true, "reason": "在PU学习设置下推导非分解度量的遗憾界，属于PU学习理论扩展。"}
+{"id": "10.1007_s10618-023-00925-9", "relevance": 0.7, "relevant": true, "reason": "提出基于异常检测的两步法用于PU分类，直接解决PU学习中的不平衡问题。"}
+{"id": "paper_033_86a1e732", "relevance": 0.8, "relevant": true, "reason": "提出针对PU分类的鲁棒AUC最大化框架，同时处理异常检测和特征选择。"}
+{"id": "paper_034_1017079a", "relevance": 0.8, "relevant": true, "reason": "将PU学习引入联邦学习场景，提出FedPU框架。"}
+{"id": "10.1007_978-3-030-78191-0_47", "relevance": 0.75, "relevant": true, "reason": "将PU学习应用于COVID-19半监督筛查，属于PU学习的医学应用。"}
+{"id": "10.1016_j.ins.2020.03.021", "relevance": 0.75, "relevant": true, "reason": "提出基于PU学习的异常检测方法PUMAD，核心使用PU学习框架。"}
+{"id": "10.1109_tmm.2018.2871421", "relevance": 0.75, "relevant": true, "reason": "将异常检测建模为PU学习问题，提出新的PU学习方法。"}
+{"id": "10.1007_s11760-024-03797-8", "relevance": 0.7, "relevant": true, "reason": "将PU学习用于弱异常检测，属于PU学习的应用。"}
+{"id": "paper_039_9db78a64", "relevance": 0.85, "relevant": true, "reason": "提出伪监督PU学习框架PSPU，直接改进PU学习性能。"}
+{"id": "paper_040_9612c95", "relevance": 0.7, "relevant": true, "reason": "比较OC和PU算法，提出PU改进方案，属于PU学习方法论研究。"}
+{"id": "paper_041_eda95492", "relevance": 0.95, "relevant": true, "reason": "标题和摘要直接提出了一种针对PU分类的元学习方法，核心研究PU学习问题。"}
+{"id": "10.48550_arxiv.2406.03680", "relevance": 0.95, "relevant": true, "reason": "与上篇内容相同，直接研究PU分类的元学习方法。"}
+{"id": "10.1109_tpami.2023.3319431", "relevance": 0.95, "relevant": true, "reason": "提出标签分布对齐方法解决PU学习中的负偏置问题，核心贡献在PU学习领域。"}
+{"id": "paper_044_dbbeb0a8", "relevance": 0.85, "relevant": true, "reason": "对PU学习的样本复杂度进行理论分析，属于PU学习的核心理论研究。"}
+{"id": "10.1109_tai.2025.3605890", "relevance": 0.9, "relevant": true, "reason": "提出自校正正则化风险的PU学习算法，直接解决PU学习中的类先验问题。"}
+{"id": "10.1080_01621459.2025.2474266", "relevance": 0.9, "relevant": true, "reason": "提出双指数倾斜模型处理不同分布下的PU数据，是PU学习的新理论框架。"}
+{"id": "10.1109_icme57554.2024.10687935", "relevance": 0.85, "relevant": true, "reason": "提出伪监督PU学习框架，直接改进PU学习中的风险估计问题。"}
+{"id": "10.2139_ssrn.4777358", "relevance": 0.7, "relevant": true, "reason": "标题提及PU学习用于工业异常检测，但摘要为空，无法确认具体方法，仅凭标题判断为相关。"}
+{"id": "10.1109_tcbbio.2025.3565151", "relevance": 0.75, "relevant": true, "reason": "将PU学习应用于T-ALL核心基因筛选，是PU学习在生物信息学中的重要应用。"}
+{"id": "10.1145_3583780.3615250", "relevance": 0.85, "relevant": true, "reason": "专门研究图上的PU节点分类问题，提出结构感知的PU损失，核心贡献在PU学习。"}
+{"id": "10.5753_eniac.2023.234337", "relevance": 0.8, "relevant": true, "reason": "提出针对PU数据的NMF算法用于文本分类，直接改进PU学习方法。"}
+{"id": "paper_052_85b51424", "relevance": 0.85, "relevant": true, "reason": "研究实例依赖的PU数据联合经验风险最小化，属于PU学习的核心方法研究。"}
+{"id": "10.7717_peerj-cs.2451", "relevance": 0.9, "relevant": true, "reason": "提出PULSNAR算法解决非SCAR假设下的PU学习类比例估计问题，直接贡献于PU学习。"}
+{"id": "10.1007_978-3-540-88458-3_60", "relevance": 0.9, "relevant": true, "reason": "与上篇内容相同，提出PULSNAR算法解决非SCAR假设下的PU学习问题。"}
+{"id": "10.48550_arxiv.2303.08269", "relevance": 0.9, "relevant": true, "reason": "与上篇内容相同，提出PULSNAR算法解决非SCAR假设下的PU学习问题。"}
+{"id": "10.2139_ssrn.4361704", "relevance": 0.7, "relevant": true, "reason": "标题提及从正和无标签数据中学习，但摘要为空，仅凭标题判断为相关。"}
+{"id": "paper_057_dca22490", "relevance": 0.75, "relevant": true, "reason": "将PU学习应用于半监督疾病分类，是PU学习在医学图像中的重要应用。"}
+{"id": "10.1016_j.procs.2025.04.677", "relevance": 0.05, "relevant": false, "reason": "标题和摘要均未提及PU学习或正无标签学习，仅讨论文本分类，与主题无关。"}
+{"id": "10.1609_aaai.v35i10.17064", "relevance": 0.9, "relevant": true, "reason": "提出PULNS方法，通过强化学习选择负样本改进PU学习，直接贡献于PU学习。"}
+{"id": "10.1109_jbhi.2024.3349412", "relevance": 0.75, "relevant": true, "reason": "将PU学习应用于半监督疾病分类，是PU学习在医学图像中的重要应用。"}
+{"id": "10.1016_j.patrec.2020.06.003", "relevance": 0.9, "relevant": true, "reason": "直接研究PU学习在开放集域适应中的应用，并扩展了PU学习的理论框架。"}
+{"id": "paper_062_e39cf344", "relevance": 0.85, "relevant": true, "reason": "针对PU分类中的选择偏差问题提出新方法，核心是PU学习。"}
+{"id": "paper_063_77e1204a", "relevance": 0.95, "relevant": true, "reason": "直接研究PU学习中非随机选择假设下的类别比例估计问题，核心主题。"}
+{"id": "10.3390_e26050403", "relevance": 0.8, "relevant": true, "reason": "提出基于决策树的PU学习方法，直接解决PU学习问题。"}
+{"id": "paper_065_368ea39", "relevance": 0.9, "relevant": true, "reason": "从理论上比较PU学习与PN学习，直接分析PU学习的性能优势。"}
+{"id": "10.48550_arxiv.2303.04797", "relevance": 0.85, "relevant": true, "reason": "与paper_062相同，针对PU分类中的选择偏差问题提出新方法。"}
+{"id": "10.1145_3580305.3599409", "relevance": 0.75, "relevant": true, "reason": "将PU学习应用于多实例异常检测，属于PU学习的重要应用方向。"}
+{"id": "10.1109_tkde.2025.3525490", "relevance": 0.85, "relevant": true, "reason": "提出PU-AUC优化方法用于GNN链接预测，直接应用PU学习理论。"}
+{"id": "10.1145_3123266.3123304", "relevance": 0.7, "relevant": true, "reason": "标题明确涉及PU学习在异常检测中的应用，但摘要为空，评分保守。"}
+{"id": "10.3390_math12101454", "relevance": 0.85, "relevant": true, "reason": "提出绝对值不等式SVM方法直接解决PU学习问题。"}
+{"id": "10.1007_s11053-025-10464-3", "relevance": 0.65, "relevant": true, "reason": "将PU学习应用于地球化学异常检测，属于PU学习的应用，但摘要为空。"}
+{"id": "paper_072_d223a12f", "relevance": 0.8, "relevant": true, "reason": "扩展PU学习到多类分类问题，直接研究PU数据下的分类方法。"}
+{"id": "10.24963_ijcai.2017_457", "relevance": 0.8, "relevant": true, "reason": "与10.3390_e26050403相同论文，提出基于决策树的PU学习方法。"}
+{"id": "paper_074_e9a944dc", "relevance": 0.85, "relevant": true, "reason": "提出PU学习中混合比例估计的灵活方法，核心解决PU学习关键步骤。"}
+{"id": "10.3390_a16100470", "relevance": 0.05, "relevant": false, "reason": "标题和摘要均未提及PU学习，主题为文本分类和情感分析，与PU学习无关。"}
+{"id": "10.5626_jcse.2025.19.1.16", "relevance": 0.6, "relevant": true, "reason": "标题涉及多正例未标记数据的联邦学习方法，但摘要为空，相关性有限。"}
+{"id": "10.1609_aaai.v37i7.26051", "relevance": 0.95, "relevant": true, "reason": "从统一视角重新思考PU学习中的多个问题，提出新模型，核心研究PU学习。"}
+{"id": "paper_078_f98b1df4", "relevance": 0.9, "relevant": true, "reason": "研究PU设置下的对比表示学习，提出新的PU对比学习目标，直接相关。"}
+{"id": "paper_079_581b8269", "relevance": 0.85, "relevant": true, "reason": "提出基于上下文学习的PU分类方法，直接解决PU学习问题。"}
+{"id": "paper_080_4324b5e3", "relevance": 0.8, "relevant": true, "reason": "提出从正例和未标记数据中主动学习的方法，直接研究PU学习场景。"}
+{"id": "paper_082_7f178c94", "relevance": 0.85, "relevant": true, "reason": "该论文直接引用PU学习文献并提出基于PU学习的无偏风险估计方法，核心方法属于PU学习范畴。"}
+{"id": "10.1021_ci100050t", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用Positive-Unlabeled Learning策略解决有机反应产率预测问题，是PU学习的直接应用。"}
+{"id": "10.1021_jacs.6c00127", "relevance": 0.95, "relevant": true, "reason": "与上一篇内容相同，标题和摘要明确使用Positive-Unlabeled Learning策略，是PU学习的直接应用。"}
+{"id": "10.1109_icmlca63499.2024.10754404", "relevance": 0.0, "relevant": false, "reason": "标题和摘要仅泛泛讨论KNN、SVM、决策树等通用方法，未提及PU学习或相关关键实体。"}
+{"id": "10.1021_acsami.5c19073", "relevance": 0.0, "relevant": false, "reason": "标题和摘要为空，且主题为纳米抗体热稳定性预测，与PU学习无关。"}
+{"id": "10.3389_fpsyg.2022.903919", "relevance": 0.0, "relevant": false, "reason": "研究AI集成微信社交媒体的学习参与，PU仅作为缩写出现（perceived usefulness），与positive unlabeled learning无关。"}
+{"id": "10.1158_1535-7163.mct-13-0464", "relevance": 0.0, "relevant": false, "reason": "主题为癌症驱动基因识别，使用图神经网络，未涉及PU学习。"}
+{"id": "10.1145_3394520", "relevance": 0.9, "relevant": true, "reason": "摘要明确探索positive-unlabeled learning作为检测适应性进化事件的灵活框架，核心方法为PU学习。"}
+{"id": "10.1016_j.inffus.2021.11.011", "relevance": 0.9, "relevant": true, "reason": "摘要明确使用Positive-Unlabeled (PU) learning框架检测非法倾倒点，是PU学习的直接应用。"}
+{"id": "10.1109_tpami.2024.3387317", "relevance": 0.0, "relevant": false, "reason": "主题为轴承剩余寿命预测，使用对比自监督学习，未涉及PU学习。"}
+{"id": "10.1093_bioinformatics_btn162", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确提出Positive-Unlabeled (PU) learning框架预测细菌蛋白-化合物相互作用，是PU学习的直接应用。"}
+{"id": "10.1109_tpami.2019.2916873", "relevance": 0.0, "relevant": false, "reason": "主题为自监督人体动作识别，使用对比学习和掩码预测，未涉及PU学习。"}
+{"id": "10.1093_bioinformatics_btag049", "relevance": 0.0, "relevant": false, "reason": "主题为空间转录组数据聚类，使用迁移学习和图卷积网络，未涉及PU学习。"}
+{"id": "10.1109_tcomm.2020.3033006", "relevance": 0.0, "relevant": false, "reason": "主题为IRS辅助认知无线电系统优化，PU仅作为primary users缩写，与positive unlabeled learning无关。"}
+{"id": "10.1109_access.2025.3578651", "relevance": 0.9, "relevant": true, "reason": "标题和摘要明确使用Instance-Level Positive-Unlabeled Learning进行多实例学习异常检测，是PU学习的直接应用。"}
+{"id": "10.1109_iccvw60793.2023.00360", "relevance": 0.0, "relevant": false, "reason": "主题为少样本目标检测，使用半监督算法，未涉及PU学习。"}
+{"id": "10.1021_jacs.5c10126", "relevance": 0.85, "relevant": true, "reason": "摘要明确使用positive-unlabeled crystal graph convolutional neural network (PU-CGCNN)模型验证MOF结构，是PU学习的应用。"}
+{"id": "10.1109_tmi.2020.3025065", "relevance": 0.0, "relevant": false, "reason": "主题为MRI重建中的不确定性量化，使用变分自编码器，未涉及PU学习。"}
+{"id": "10.1016_j.knosys.2026.115328", "relevance": 0.95, "relevant": true, "reason": "标题明确使用Positive-unlabeled learning进行基于双分支生成对抗网络的异常检测，是PU学习的直接应用。"}
+{"id": "10.5220_0014246600004052", "relevance": 0.0, "relevant": false, "reason": "标题和摘要为空，主题为强化学习中的知识嵌入，与PU学习无关。"}
+{"id": "10.1016_j.neucom.2025.132033", "relevance": 0.0, "relevant": false, "reason": "标题和摘要均未提及正无标签学习或任何相关概念，属于情感分析任务，与主题无关。"}
+{"id": "10.5220_0013964100004067", "relevance": 0.95, "relevant": true, "reason": "标题直接包含'Positive-Unlabeled Learning'，是主题核心方法。"}
+{"id": "10.1038_s41598-026-48873-w", "relevance": 0.9, "relevant": true, "reason": "摘要明确使用正无标签学习算法解决欺诈检测问题，是PU学习的直接应用。"}
+{"id": "10.1021_acs.jcim.6c00305", "relevance": 0.9, "relevant": true, "reason": "摘要明确提出基于正无标签学习的多任务框架ULCYP，是PU学习的直接应用。"}
+{"id": "10.1186_s13321-026-01209-2", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论分子图像识别中的域适应，未涉及正无标签学习。"}
+{"id": "10.1038_s41598-026-50194-x", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论脑肿瘤检测的半监督学习框架，未提及正无标签学习。"}
+{"id": "10.1109_tmi.2026.3684946", "relevance": 0.0, "relevant": false, "reason": "摘要讨论无监督异常检测的模型选择指标，未涉及正无标签学习。"}
+{"id": "10.1186_s13059-026-04075-1", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用正无标签学习预测植物相分离蛋白，是PU学习的直接应用。"}
+{"id": "10.1021_acs.jcim.6c00294", "relevance": 0.85, "relevant": true, "reason": "摘要将问题形式化为正无标签矩阵，并采用伪标签策略，属于PU学习的重要子方向。"}
+{"id": "10.1016_j.jbi.2026.105028", "relevance": 0.95, "relevant": true, "reason": "摘要明确针对正无标签不平衡问题提出HetBio-CLiP方法，是PU学习的直接应用。"}
+{"id": "10.1109_tpami.2026.3673840", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论半监督多标签学习的伪标签方法，未涉及正无标签学习。"}
+{"id": "10.1021_acs.jcim.5c02935", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论合成可及性预测的域对抗网络，未提及正无标签学习。"}
+{"id": "10.1109_tpami.2026.3664613", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论图文检索的分布到点匹配，未涉及正无标签学习。"}
+{"id": "10.1016_j.compbiomed.2025.111432", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论半监督血管分割，未提及正无标签学习。"}
+{"id": "10.1021_acs.jcim.5c01730", "relevance": 0.6, "relevant": true, "reason": "摘要末尾提到使用Bagging集成的正无标签学习模型筛选合成方案，属于弱相关应用。"}
+{"id": "10.1109_tpami.2025.3639593", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论3D医学图像自监督预训练，未涉及正无标签学习。"}
+{"id": "10.1038_s41598-024-59907-6", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论乳酸代谢与类风湿关节炎的生物信息学分析，未提及正无标签学习。"}
+{"id": "10.1038_s41598-025-14748-9", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论水产养殖传感器故障诊断的极限学习机，未涉及正无标签学习。"}
+{"id": "10.1016_j.eswa.2022.117581", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论社交媒体情感识别的RoBERTa和图神经网络，未提及正无标签学习。"}
+{"id": "10.1038_s41598-025-11097-5", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论糖尿病肾病的线粒体与内质网应激基因，未涉及正无标签学习。"}
+{"id": "10.1016_j.compbiomed.2024.108048", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确以PU学习为核心方法，用于识别疾病相关基因，直接研究topic核心问题。"}
+{"id": "10.1109_ichi.2019.8904698", "relevance": 0.9, "relevant": true, "reason": "将问题框架为正-无标签领域自适应任务，核心方法基于PU学习，直接相关。"}
+{"id": "10.2196_50437", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未提及positive unlabeled learning，仅涉及深度学习与启发式后处理，与topic无关。"}
+{"id": "10.1007_s10142-023-00995-4", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未涉及positive unlabeled learning，仅使用机器学习进行多模态成像分析，与topic无关。"}
+{"id": "10.1016_j.neunet.2019.08.025", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用两种positive-unlabeled learning方法解决冷冻电镜断层扫描中的大分子定位问题，直接相关。"}
+{"id": "10.1038_s42256-019-0138-9", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用半监督正-无标签学习（SSPUL）预测未诊断的阿尔茨海默病，直接相关。"}
+{"id": "10.1038_s41592-019-0686-2", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确应用Positive-Unlabeled机器学习方法识别HIV疫苗效力试验中的保护相关性，直接相关。"}
+{"id": "10.3390_ijms18122649", "relevance": 0.75, "relevant": true, "reason": "摘要提到使用positive unlabeled (PU) learning优化梯度提升模型预测PPI位点，属于重要子方向应用。"}
+{"id": "10.1186_s12864-019-6413-7", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确以PU学习为核心方法预测酚类氧化均偶联反应中的底物反应性，直接相关。"}
+{"id": "10.1007_s12672-024-01225-4", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未提及positive unlabeled learning，仅涉及深度学习和多组学平台，与topic无关。"}
+{"id": "10.1038_s12276-023-00934-0", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未涉及positive unlabeled learning，仅使用机器学习预测基因表达，与topic无关。"}
+{"id": "10.1038_s41587-021-00859-x", "relevance": 0.9, "relevant": true, "reason": "摘要明确使用Positive-Unlabeled Learning (PU-learning) 识别中性粒细胞分化调控因子，直接相关。"}
+{"id": "10.1186_s12859-024-05784-9", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未提及positive unlabeled learning，仅讨论负样本生成方法，与topic无关。"}
+{"id": "10.5281_zenodo.15168340", "relevance": 0.85, "relevant": true, "reason": "摘要明确使用positive unlabelled learning with random forest (PUL-RF) 识别全球光伏面板，直接相关。"}
+{"id": "10.1093_bioinformatics_btr260", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确以Positive-Unlabeled (PU) learning为核心方法改进药物重定位，直接相关。"}
+{"id": "10.1016_j.neucom.2025.130488", "relevance": 0.95, "relevant": true, "reason": "标题明确使用positive-unlabeled learning方法进行工业异常检测，直接相关。"}
+{"id": "10.1609_aaai.v38i8.28665", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确以PU learning为核心框架进行稳健的逃税检测，直接相关。"}
+{"id": "10.1109_lra.2021.3062597", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未提及positive unlabeled learning，仅使用半监督变分自编码器进行异常检测，与topic无关。"}
+{"id": "10.1038_s41598-024-82998-0", "relevance": 0.05, "relevant": false, "reason": "标题和摘要未涉及positive unlabeled learning，仅使用生物信息学和机器学习方法，与topic无关。"}
+{"id": "10.52202_075280-0869", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确以Positive-Unlabeled (PU) learning为核心，提出基于因果推断的增强算法，直接相关。"}
+{"id": "10.1038_s41598-024-81335-9", "relevance": 0.0, "relevant": false, "reason": "标题和摘要均未提及正无标记学习，而是关于曲妥珠单抗诱导的心脏毒性的诊断基因筛选。"}
+{"id": "10.1038_s41598-025-15330-z", "relevance": 0.0, "relevant": false, "reason": "研究牙周炎的脂质代谢相关基因和免疫微环境，完全不涉及正无标记学习。"}
+{"id": "10.1177_11779322241281652", "relevance": 0.0, "relevant": false, "reason": "关注重症肌无力与胸腺瘤共病的潜在关键基因，未提及正无标记学习。"}
+{"id": "10.1007_s11633-023-1459-z", "relevance": 0.0, "relevant": false, "reason": "综述工业图像异常检测，不涉及正无标记学习。"}
+{"id": "10.1609_aaai.v33i01.33015167", "relevance": 0.0, "relevant": false, "reason": "提出一种利用未标记数据的异常检测方法，但未使用正无标记学习框架。"}
+{"id": "10.1609_aaai.v35i1.16125", "relevance": 0.0, "relevant": false, "reason": "关于竞争风险分析的深度伪值模型，与正无标记学习无关。"}
+{"id": "10.1109_tkde.2024.3352628", "relevance": 0.0, "relevant": false, "reason": "综述纵向联邦学习，不涉及正无标记学习。"}
+{"id": "10.1007_s11280-024-01276-1", "relevance": 0.0, "relevant": false, "reason": "讨论大语言模型与个性化，未提及正无标记学习。"}
+{"id": "10.1016_j.ins.2017.12.046", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用正无标记学习构建议会环境中的推荐系统，并提出了新算法。"}
+{"id": "10.1109_tpami.2025.3565394", "relevance": 0.9, "relevant": true, "reason": "定义了GAN中的正无标记分类问题，并提出了PUGAN方法，直接研究PU学习。"}
+{"id": "10.1007_s10489-024-05852-w", "relevance": 0.0, "relevant": false, "reason": "标题提及图级异常检测，但未涉及正无标记学习。"}
+{"id": "10.24963_ijcai.2023_415", "relevance": 0.0, "relevant": false, "reason": "研究多标签互补标签学习的无偏风险估计，与正无标记学习不同。"}
+{"id": "10.1109_access.2024.3420453", "relevance": 0.9, "relevant": true, "reason": "标题和摘要明确提出基于密度的PU学习方法Dense-PU，直接解决PU学习问题。"}
+{"id": "10.1021_acsnano.2c12606", "relevance": 0.0, "relevant": false, "reason": "柔性传感器技术路线图，与正无标记学习无关。"}
+{"id": "10.1016_j.eswa.2024.124890", "relevance": 0.9, "relevant": true, "reason": "标题明确使用正无标记学习进行少样本异常检测，直接相关。"}
+{"id": "10.1109_access.2022.3219071", "relevance": 0.85, "relevant": true, "reason": "标题和摘要提出使用正无标记学习解决协同过滤冷启动问题，是PU学习的应用。"}
+{"id": "10.1109_access.2023.3269304", "relevance": 0.9, "relevant": true, "reason": "标题和摘要提出改进的非负PU学习方法用于新闻标题分类，直接研究PU算法。"}
+{"id": "10.1145_3700137", "relevance": 0.0, "relevant": false, "reason": "研究部分标签学习中的无偏风险估计，与正无标记学习不同。"}
+{"id": "10.1016_j.ins.2024.121574", "relevance": 0.95, "relevant": true, "reason": "标题和摘要提出一种无核的PU学习方法GKF-PUAL，直接解决PU分类和变量选择。"}
+{"id": "10.1038_s41598-025-03724-y", "relevance": 0.0, "relevant": false, "reason": "研究缺血性卒中中T细胞耗竭相关基因，未涉及正无标记学习。"}
+{"id": "10.5220_0013191900003890", "relevance": 0.0, "relevant": false, "reason": "标题和摘要均未提及正无标签学习或任何相关概念，属于农业育种中的集成学习，与主题无关。"}
+{"id": "10.58496_bjml_2024_002", "relevance": 0.0, "relevant": false, "reason": "标题和摘要仅涉及入侵检测中的SVM和遗传算法，未涉及正无标签学习。"}
+{"id": "10.1016_j.neucom.2025.129566", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论多模态超图与对比学习用于情感分析，未提及正无标签学习。"}
+{"id": "10.1021_acsnano.5c13278", "relevance": 0.0, "relevant": false, "reason": "摘要聚焦硅基电池负极材料，仅提及机器学习辅助分析，与正无标签学习无关。"}
+{"id": "10.5281_zenodo.7996661", "relevance": 0.0, "relevant": false, "reason": "标题和摘要描述深度学习方法DeSide用于肿瘤微环境细胞解卷积，未涉及正无标签学习。"}
+{"id": "10.1016_j.actatropica.2017.01.020", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论自监督学习用于蚊虫分类，与正无标签学习无关。"}
+{"id": "10.1038_s41586-020-2649-2", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确研究正无标签学习在高维生物数据中的应用，并提出了结合置换检验的方法。"}
+{"id": "10.1016_j.ijbiomac.2025.148083", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论骨肉瘤中PYCR1作为生物标志物，使用机器学习但未涉及正无标签学习。"}
+{"id": "10.1016_j.cels.2025.101346", "relevance": 0.0, "relevant": false, "reason": "标题和摘要描述巨噬细胞免疫调控的时间序列分析与CRISPR筛选，未提及正无标签学习。"}
+{"id": "10.1093_bioinformatics_btae634", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确提出使用正无标签学习（PU learning）对生物网络上的基因进行优先级排序。"}
+{"id": "10.1093_gpbjnl_qzae036", "relevance": 0.0, "relevant": false, "reason": "标题和摘要描述SuperFeat框架用于单细胞RNA-seq药物重定位，未涉及正无标签学习。"}
+{"id": "10.1093_nar_gkae799", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论宏基因组contig分类器4CAC，使用机器学习但未提及正无标签学习。"}
+{"id": "10.3389_fonc.2021.608932", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论基于机器学习的急性髓系白血病生物标志物筛选，未涉及正无标签学习。"}
+{"id": "10.1109_tnnls.2024.3424331", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论对比无监督表示学习中的样本选择，未提及正无标签学习。"}
+{"id": "10.1109_tnnls.2025.3530427", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确研究正无标签学习（PU learning），并提出加权对比学习与难负样本挖掘方法。"}
+{"id": "10.1007_s10994-020-05877-5", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确使用正无标签学习推断疫苗效力试验中的保护状态并识别相关因子。"}
+{"id": "10.48550_arxiv.2408.08981", "relevance": 0.85, "relevant": true, "reason": "标题和摘要提出正无标签序列学习（PUSL）解决开放词汇极端多标签分类中的缺失标签问题，核心方法基于PU学习。"}
+{"id": "10.1016_j.knosys.2024.112808", "relevance": 0.95, "relevant": true, "reason": "标题明确为ROPU：一种鲁棒的在线正无标签学习算法，直接研究主题。"}
+{"id": "10.48550_arxiv.2306.06894", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论学习增强类别的无偏风险估计，未涉及正无标签学习。"}
+{"id": "10.24963_ijcai.2021_461", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论强化学习中的优势估计，与正无标签学习无关。"}
+{"id": "10.1145_3600211.3604673", "relevance": 0.0, "relevant": false, "reason": "标题和摘要讨论算法系统的社会技术危害，与正无标签学习完全无关。"}
+{"id": "10.1038_s41588-024-02053-6", "relevance": 0.0, "relevant": false, "reason": "研究RNA-seq覆盖度预测与基因调控，未涉及正无标签学习问题。"}
+{"id": "10.18653_v1_2023.acl-long.421", "relevance": 0.0, "relevant": false, "reason": "聚焦多模态情感分析中的对比特征分解，与正无标签学习无关。"}
+{"id": "10.1186_s12943-025-02369-9", "relevance": 0.0, "relevant": false, "reason": "综述AI在癌症诊疗中的应用，未提及正无标签学习方法。"}
+{"id": "10.48550_arxiv.2405.14458", "relevance": 0.0, "relevant": false, "reason": "介绍YOLOv10实时目标检测，与正无标签学习无关。"}
+{"id": "10.1016_j.neucom.2023.126556", "relevance": 0.95, "relevant": true, "reason": "标题和摘要明确研究正无标签学习问题，并提出基于张量网络的新方法。"}
+{"id": "10.1002_adma.202500412", "relevance": 0.0, "relevant": false, "reason": "综述智能可穿戴传感器与AI在医疗中的应用，未涉及正无标签学习。"}
+{"id": "10.1109_aic61668.2024.10777894", "relevance": 0.0, "relevant": false, "reason": "使用聚类算法进行三标记测试预测，未涉及正无标签学习框架。"}

@@ -1,0 +1,24 @@
+{
+  "core": {
+    "selected": 30,
+    "pool": 30,
+    "min_rel_final": 0.18,
+    "min_score_final": 0.05,
+    "max_papers": 30,
+    "min_papers": 10,
+    "allow_backfill": false
+  },
+  "extended": {
+    "enabled": true,
+    "selected": 30,
+    "pool": 38,
+    "min_rel_final": 0.12,
+    "min_score_final": 0.03,
+    "max_papers": 30,
+    "relax_require_any_tag": true
+  },
+  "venue_gate": true,
+  "other_min_sources_high_trust": 2,
+  "other_min_citations": 50,
+  "total_selected": 60
+}

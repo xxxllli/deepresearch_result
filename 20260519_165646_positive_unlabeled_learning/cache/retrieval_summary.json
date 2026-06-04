@@ -1,0 +1,329 @@
+{
+  "combined_query": "positive unlabeled learning OR PU learning biased SVM OR positive unlabeled learning class prior estimation OR PU learning risk estimator OR positive unlabeled classification algorithm OR PU learning text classification",
+  "per_source_queries": {
+    "openalex": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation"
+    ],
+    "semanticscholar": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation",
+      "PU learning risk estimator",
+      "positive unlabeled classification algorithm",
+      "positive unlabeled learning anomaly detection",
+      "PU learning bioinformatics gene function",
+      "positive unlabeled learning recommender system"
+    ],
+    "crossref": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation"
+    ],
+    "dblp": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation",
+      "PU learning risk estimator",
+      "positive unlabeled classification algorithm",
+      "positive unlabeled learning anomaly detection",
+      "PU learning bioinformatics gene function",
+      "positive unlabeled learning recommender system",
+      "positive unlabeled learning evaluation metric",
+      "PU learning benchmark comparison",
+      "positive unlabeled learning generalization bound",
+      "positive unlabeled learning positive unlabeled learning",
+      "positive unlabeled learning PU learning",
+      "positive unlabeled learning positive unlabeled data",
+      "positive unlabeled learning PU classification",
+      "positive unlabeled learning positive-only learning"
+    ],
+    "arxiv": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation",
+      "PU learning risk estimator",
+      "positive unlabeled classification algorithm",
+      "positive unlabeled learning anomaly detection",
+      "PU learning bioinformatics gene function",
+      "positive unlabeled learning recommender system",
+      "positive unlabeled learning evaluation metric",
+      "PU learning benchmark comparison",
+      "positive unlabeled learning generalization bound",
+      "positive unlabeled learning positive unlabeled learning",
+      "positive unlabeled learning PU learning",
+      "positive unlabeled learning positive unlabeled data",
+      "positive unlabeled learning PU classification",
+      "positive unlabeled learning positive-only learning"
+    ],
+    "pubmed": [
+      "PU learning biased SVM",
+      "PU learning text classification",
+      "PU learning theoretical analysis",
+      "positive unlabeled learning",
+      "positive unlabeled learning class prior estimation",
+      "PU learning risk estimator",
+      "positive unlabeled classification algorithm",
+      "positive unlabeled learning anomaly detection",
+      "PU learning bioinformatics gene function",
+      "positive unlabeled learning recommender system",
+      "positive unlabeled learning evaluation metric",
+      "PU learning benchmark comparison",
+      "positive unlabeled learning generalization bound",
+      "positive unlabeled learning positive unlabeled learning",
+      "positive unlabeled learning PU learning",
+      "positive unlabeled learning positive and unlabeled data",
+      "positive unlabeled learning PU classification",
+      "positive unlabeled learning positive-only learning"
+    ]
+  },
+  "per_source_counts": {
+    "openalex": 200,
+    "semanticscholar": 200,
+    "crossref": 200,
+    "dblp": 5,
+    "arxiv": 190,
+    "pubmed": 174
+  },
+  "per_source_status": {
+    "openalex": {
+      "n_calls": 5,
+      "n_errors": 0,
+      "last_url": "https://api.openalex.org/works?search=positive+unlabeled+learning+class+prior+estimation&per_page=1&filter=from_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-12-31&mailto=xiaoli2424%40gmail.com",
+      "last_status_code": 200
+    },
+    "semanticscholar": {
+      "n_calls": 10,
+      "n_errors": 4,
+      "last_url": "https://api.semanticscholar.org/graph/v1/paper/search?query=positive+unlabeled+learning+recommender+system&limit=5&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "last_status_code": 200
+    },
+    "crossref": {
+      "n_calls": 5,
+      "n_errors": 0,
+      "last_url": "https://api.crossref.org/works?query.bibliographic=positive+unlabeled+learning+class+prior+estimation&rows=1&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-12-31&mailto=xiaoli2424%40gmail.com",
+      "last_status_code": 200
+    },
+    "dblp": {
+      "n_calls": 18,
+      "n_errors": 15,
+      "last_url": "https://dblp.org/search/publ/api?q=PU+learning+theoretical+analysis&format=json&h=60",
+      "last_status_code": 200
+    },
+    "arxiv": {
+      "n_calls": 18,
+      "n_errors": 8,
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3Apositive+AND+all%3Aunlabeled+AND+all%3Alearning+AND+all%3Apositive-only+AND+all%3Alearning&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending",
+      "last_status_code": 200
+    },
+    "pubmed": {
+      "n_calls": 18,
+      "n_errors": 0,
+      "last_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41946232%2C41921974&retmode=xml&tool=top-research-multiagent&email=xiaoli2424%40gmail.com",
+      "last_status_code": 200
+    }
+  },
+  "errors": [
+    {
+      "source": "semanticscholar",
+      "error": "RetryError: 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=PU+learning+text+classification&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "query": "PU learning text classification",
+      "last_url": "https://api.semanticscholar.org/graph/v1/paper/search?query=PU+learning+text+classification&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "status_code": "429"
+    },
+    {
+      "source": "semanticscholar",
+      "error": "RetryError: 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=PU+learning+theoretical+analysis&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "query": "PU learning theoretical analysis",
+      "last_url": "https://api.semanticscholar.org/graph/v1/paper/search?query=PU+learning+theoretical+analysis&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "status_code": "429"
+    },
+    {
+      "source": "semanticscholar",
+      "error": "RetryError: 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=positive+unlabeled+learning&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "query": "positive unlabeled learning",
+      "last_url": "https://api.semanticscholar.org/graph/v1/paper/search?query=positive+unlabeled+learning&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "status_code": "429"
+    },
+    {
+      "source": "semanticscholar",
+      "error": "RetryError: 429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=positive+unlabeled+learning+class+prior+estimation&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "query": "positive unlabeled learning class prior estimation",
+      "last_url": "https://api.semanticscholar.org/graph/v1/paper/search?query=positive+unlabeled+learning+class+prior+estimation&limit=40&offset=0&fields=title%2Cabstract%2Cyear%2Cvenue%2CcitationCount%2Curl%2CexternalIds%2Cauthors%2Cauthors.affiliations%2CopenAccessPdf",
+      "status_code": "429"
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning class prior estimation",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "PU learning risk estimator",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled classification algorithm",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning anomaly detection",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "PU learning bioinformatics gene function",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning recommender system",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning evaluation metric",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "PU learning benchmark comparison",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning generalization bound",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning positive unlabeled learning",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning PU learning",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning positive unlabeled data",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning PU classification",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "dblp",
+      "error": "RetryError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "query": "positive unlabeled learning positive-only learning",
+      "last_url": "https://dblp.org/search/publ/api",
+      "status_code": ""
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
+      "query": "PU learning biased SVM",
+      "last_url": "https://export.arxiv.org/api/query",
+      "status_code": ""
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Atext+AND+all%3Aclassification&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "query": "PU learning text classification",
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Atext+AND+all%3Aclassification&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "status_code": "429"
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Atheoretical+AND+all%3Aanalysis&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "query": "PU learning theoretical analysis",
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Atheoretical+AND+all%3Aanalysis&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "status_code": "429"
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3Apositive+AND+all%3Aunlabeled+AND+all%3Alearning&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "query": "positive unlabeled learning",
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3Apositive+AND+all%3Aunlabeled+AND+all%3Alearning&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "status_code": "429"
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
+      "query": "positive unlabeled learning class prior estimation",
+      "last_url": "https://export.arxiv.org/api/query",
+      "status_code": ""
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3Apositive+AND+all%3Aunlabeled+AND+all%3Alearning+AND+all%3Aanomaly+AND+all%3Adetection&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "query": "positive unlabeled learning anomaly detection",
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3Apositive+AND+all%3Aunlabeled+AND+all%3Alearning+AND+all%3Aanomaly+AND+all%3Adetection&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "status_code": "429"
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Abioinformatics+AND+all%3Agene+AND+all%3Afunction&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "query": "PU learning bioinformatics gene function",
+      "last_url": "https://export.arxiv.org/api/query?search_query=all%3APU+AND+all%3Alearning+AND+all%3Abioinformatics+AND+all%3Agene+AND+all%3Afunction&start=0&max_results=60&sortBy=submittedDate&sortOrder=descending",
+      "status_code": "429"
+    },
+    {
+      "source": "arxiv",
+      "error": "RetryError: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
+      "query": "positive unlabeled learning evaluation metric",
+      "last_url": "https://export.arxiv.org/api/query",
+      "status_code": ""
+    }
+  ],
+  "n_results": 969
+}

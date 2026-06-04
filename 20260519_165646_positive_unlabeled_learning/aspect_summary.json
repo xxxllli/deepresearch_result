@@ -1,0 +1,73 @@
+{
+  "primary_aspects": [
+    "core methods and algorithms",
+    "application domains"
+  ],
+  "aspects": [
+    {
+      "name": "core methods and algorithms",
+      "priority": 5,
+      "must_terms": [
+        "positive unlabeled learning",
+        "PU learning",
+        "biased SVM",
+        "class prior estimation"
+      ],
+      "should_terms": [
+        "biased SVM",
+        "class prior estimation",
+        "non-traditional classification",
+        "PU bagging",
+        "risk estimator",
+        "positive-unlabeled classification",
+        "PU learning algorithm",
+        "PU risk estimator",
+        "non-traditional PU"
+      ]
+    },
+    {
+      "name": "application domains",
+      "priority": 4,
+      "must_terms": [
+        "positive unlabeled learning",
+        "PU learning",
+        "PU classification"
+      ],
+      "should_terms": [
+        "text classification",
+        "anomaly detection",
+        "bioinformatics",
+        "gene function prediction",
+        "fraud detection",
+        "recommender system",
+        "image classification",
+        "document classification",
+        "PU text",
+        "PU anomaly",
+        "PU bioinformatics",
+        "PU recommender"
+      ]
+    },
+    {
+      "name": "theoretical foundations and evaluation",
+      "priority": 3,
+      "must_terms": [
+        "positive unlabeled learning",
+        "PU learning",
+        "PU theory"
+      ],
+      "should_terms": [
+        "theoretical analysis",
+        "generalization bound",
+        "evaluation metric",
+        "PU metric",
+        "empirical study",
+        "benchmark",
+        "comparison",
+        "PU evaluation",
+        "PU benchmark",
+        "PU generalization"
+      ]
+    }
+  ]
+}

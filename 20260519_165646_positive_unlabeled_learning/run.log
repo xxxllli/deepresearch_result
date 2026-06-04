@@ -1,0 +1,6 @@
+2026-05-19 16:56:46 | INFO | top_research | Topic: positive unlabeled learning
+2026-05-19 16:56:46 | INFO | top_research | Key config: year=[2023,2026], sources=arxiv,crossref,dblp,openalex,pubmed,semanticscholar, max_per_source=200, relevance(min=0.12, llm=True), pdf(max=30, web_fulltext=True)
+2026-05-19 19:08:33 | INFO | top_research | Assets: downloaded_pdfs=25, web_fulltext=0, papers=60
+2026-05-19 19:08:33 | INFO | top_research | Ragent: enabled=True, apply_to=core,extended, vision_top_k=3
+2026-05-19 23:01:15 | INFO | top_research | Ragent: attempted=60, ok=0, images_added=0
+2026-05-19 23:01:15 | INFO | top_research | Venue metrics: resolved=60, missing=12, autofill=False (max=30)
